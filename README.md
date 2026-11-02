@@ -83,7 +83,12 @@ Cortez, P., Cerdeira, A., Almeida, F., Matos, T., and Reis, J. (2009). Modeling 
 
 ## Author
 
-**Opoku Asante Emmanuel**, data scientist and financial economist
+**Opoku Asante Emmanuel**, Data Scientist and Financial Economist
+
 Email: vkpoasante@gmail.com
+
+## License
+**MIT**
+
 
 
