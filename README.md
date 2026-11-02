@@ -76,30 +76,6 @@ Some features are strongly related. Residual sugar and density are correlated at
 - Stronger models (random forest, gradient boosting) compared against this baseline
 - Treating quality as an ordered scale, since predicting 5 when the truth is 6 is a smaller error than predicting 9
 
-## Repository contents
-
-Adjust these names to match your files.
-
-```
-.
-├── README.md
-├── requirements.txt
-├── notebooks/        # analysis and experiments
-├── src/              # classifier implementations
-├── data/             # winequality-white.csv (from UCI)
-├── figures/          # class distribution, correlation, confusion matrix, k-sweep plots
-└── results/          # metric tables
-```
-
-## Running it
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
-```
-
-Download `winequality-white.csv` from the UCI link above into `data/`, then run the notebook or script that reproduces the experiments.
 
 ## Reference
 
@@ -110,6 +86,4 @@ Cortez, P., Cerdeira, A., Almeida, F., Matos, T., and Reis, J. (2009). Modeling 
 **Opoku Asante Emmanuel**, data scientist and financial economist
 Email: vkpoasante@gmail.com
 
-## Licence
 
-Choose a licence (for example MIT) and add a `LICENSE` file.
